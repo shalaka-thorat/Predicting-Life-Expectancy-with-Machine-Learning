@@ -54,7 +54,7 @@ The following can be the Applications:<html><body><br><br>
 ●	It can benefit for policy making, and help optimize an individual’s health, or the services they receive.<br></body></html>
 
 ## Conclusion
-The web-app has been built successfully yielding good results. It is well-integrated with IBM Watson and Node-RED. The web-app is available <html><body><a href="https://life-expectancy-prediction-app.mybluemix.net/ui/">HERE</a></body></html>.
+The web-app has been built successfully yielding good results. It is well-integrated with IBM Watson and Node-RED.
 There still can be more improvements in the model by doing Feature Engineering, creating a Mobile App instead of a web-app, Enabling speech input to the model for better convenience.
 <html><body><img src="Output/web-app.png" height="500" width="700"></body></html>
 
